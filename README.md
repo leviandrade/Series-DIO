@@ -1,2 +1,2 @@
 # Series-DIO
-Cadastro de séries solicitado no bootcamp da Digital Innovation One
+API de Cadastro de séries solicitado no bootcamp da Digital Innovation One
