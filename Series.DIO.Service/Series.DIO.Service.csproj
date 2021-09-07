@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Infra.Shared\Infra.Shared.csproj" />
+    <ProjectReference Include="..\Series.DIO.Domain\Series.DIO.Domain.csproj" />
+    <ProjectReference Include="..\Series.DIO.Infra.Data\Series.DIO.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

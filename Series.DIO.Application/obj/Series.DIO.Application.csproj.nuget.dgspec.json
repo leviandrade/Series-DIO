@@ -1,0 +1,430 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Application\\Series.DIO.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Infra.Shared\\Infra.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Infra.Shared\\Infra.Shared.csproj",
+        "projectName": "Infra.Shared",
+        "projectPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Infra.Shared\\Infra.Shared.csproj",
+        "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Infra.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Domain\\Series.DIO.Domain.csproj": {
+                "projectPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Domain\\Series.DIO.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Application\\Series.DIO.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Application\\Series.DIO.Application.csproj",
+        "projectName": "Series.DIO.Application",
+        "projectPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Application\\Series.DIO.Application.csproj",
+        "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Infra.CrossCutting\\Series.DIO.Infra.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Infra.CrossCutting\\Series.DIO.Infra.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Domain\\Series.DIO.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Domain\\Series.DIO.Domain.csproj",
+        "projectName": "Series.DIO.Domain",
+        "projectPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Domain\\Series.DIO.Domain.csproj",
+        "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Infra.CrossCutting\\Series.DIO.Infra.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Infra.CrossCutting\\Series.DIO.Infra.CrossCutting.csproj",
+        "projectName": "Series.DIO.Infra.CrossCutting",
+        "projectPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Infra.CrossCutting\\Series.DIO.Infra.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Infra.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Infra.Data\\Series.DIO.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Infra.Data\\Series.DIO.Infra.Data.csproj"
+              },
+              "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Service\\Series.DIO.Service.csproj": {
+                "projectPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Service\\Series.DIO.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Infra.Data\\Series.DIO.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Infra.Data\\Series.DIO.Infra.Data.csproj",
+        "projectName": "Series.DIO.Infra.Data",
+        "projectPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Infra.Data\\Series.DIO.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Domain\\Series.DIO.Domain.csproj": {
+                "projectPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Domain\\Series.DIO.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Service\\Series.DIO.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Service\\Series.DIO.Service.csproj",
+        "projectName": "Series.DIO.Service",
+        "projectPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Service\\Series.DIO.Service.csproj",
+        "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Infra.Shared\\Infra.Shared.csproj": {
+                "projectPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Infra.Shared\\Infra.Shared.csproj"
+              },
+              "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Domain\\Series.DIO.Domain.csproj": {
+                "projectPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Domain\\Series.DIO.Domain.csproj"
+              },
+              "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Infra.Data\\Series.DIO.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Levi\\source\\repos\\Series.DIO\\Series.DIO.Infra.Data\\Series.DIO.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

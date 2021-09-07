@@ -1,0 +1,12 @@
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Infra.Data\bin\Debug\netcoreapp3.1\Series.DIO.Infra.Data.deps.json
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Infra.Data\bin\Debug\netcoreapp3.1\Series.DIO.Infra.Data.dll
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Infra.Data\bin\Debug\netcoreapp3.1\Series.DIO.Infra.Data.pdb
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Infra.Data\bin\Debug\netcoreapp3.1\Series.DIO.Domain.dll
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Infra.Data\bin\Debug\netcoreapp3.1\Series.DIO.Domain.pdb
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Infra.Data\obj\Debug\netcoreapp3.1\Series.DIO.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Infra.Data\obj\Debug\netcoreapp3.1\Series.DIO.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Infra.Data\obj\Debug\netcoreapp3.1\Series.DIO.Infra.Data.AssemblyInfo.cs
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Infra.Data\obj\Debug\netcoreapp3.1\Series.DIO.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Infra.Data\obj\Debug\netcoreapp3.1\Series.DIO.Infra.Data.csproj.CopyComplete
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Infra.Data\obj\Debug\netcoreapp3.1\Series.DIO.Infra.Data.dll
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Infra.Data\obj\Debug\netcoreapp3.1\Series.DIO.Infra.Data.pdb

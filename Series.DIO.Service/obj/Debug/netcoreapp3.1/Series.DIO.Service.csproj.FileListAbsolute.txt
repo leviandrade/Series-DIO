@@ -1,0 +1,16 @@
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\bin\Debug\netcoreapp3.1\Series.DIO.Service.deps.json
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\bin\Debug\netcoreapp3.1\Series.DIO.Service.dll
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\bin\Debug\netcoreapp3.1\Series.DIO.Service.pdb
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\bin\Debug\netcoreapp3.1\Infra.Shared.dll
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\bin\Debug\netcoreapp3.1\Series.DIO.Domain.dll
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\bin\Debug\netcoreapp3.1\Series.DIO.Infra.Data.dll
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\bin\Debug\netcoreapp3.1\Infra.Shared.pdb
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\bin\Debug\netcoreapp3.1\Series.DIO.Domain.pdb
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\bin\Debug\netcoreapp3.1\Series.DIO.Infra.Data.pdb
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\obj\Debug\netcoreapp3.1\Series.DIO.Service.csprojAssemblyReference.cache
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\obj\Debug\netcoreapp3.1\Series.DIO.Service.AssemblyInfoInputs.cache
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\obj\Debug\netcoreapp3.1\Series.DIO.Service.AssemblyInfo.cs
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\obj\Debug\netcoreapp3.1\Series.DIO.Service.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\obj\Debug\netcoreapp3.1\Series.DIO.Service.csproj.CopyComplete
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\obj\Debug\netcoreapp3.1\Series.DIO.Service.dll
+C:\Users\Levi\source\repos\Series.DIO\Series.DIO.Service\obj\Debug\netcoreapp3.1\Series.DIO.Service.pdb
